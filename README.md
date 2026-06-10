@@ -2,7 +2,7 @@
 
 A responsive, beginner-friendly web page built as part of the freeCodeCamp Responsive Web Design certification. This project showcases the fundamental structure of an HTML5 document, working with multimedia elements, and setting up clean document metadata.
 
-Live Link to the App: **[Insert Your GitHub Pages Link Here]**
+Live Link to the App: https://selina-07.github.io/Cat-photo-app/
 
 ---
 
